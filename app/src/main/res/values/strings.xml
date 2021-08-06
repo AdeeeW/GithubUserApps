@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="nama_user">Nama User</string>
+    <string name="username">Username :</string>
+    <string name="perusahaan">Perusahaan :</string>
+    <string name="biodata_user_github">Biodata User Github</string>
+    <string name="objek">objek tampil</string>
+</resources>
